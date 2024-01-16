@@ -1,6 +1,10 @@
 # Laundry List
 A list of things; when "done", add date.
 
+### ML Frameworks
+- ☐ [MLFlow](https://mlflow.org)
+- ☐ [Ray](https://docs.ray.io/en/latest/ray-overview/index.html)
+
 ### General ML
 - ☐ [Understanding Machine Learning Theory Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 - ☐ Universal Approximation Theorem (Cakmak)
